@@ -1,2 +1,0 @@
-- name: Bump version
-  run: npm version patch # 또는 'minor', 'major' 중 하나

@@ -1,6 +1,6 @@
 {
   "name": "uj-apidoc-core",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "description": "Core parser library to generate apidoc result following the uj-apidoc-spec",
   "author": "Harry Jung <jung@heesung.me>",
   "contributors": [
